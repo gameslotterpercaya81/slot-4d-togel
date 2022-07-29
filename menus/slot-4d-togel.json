@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle slot-4d-togel",
+        "command": "slot-4d-togel:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "slot-4d-togel",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "slot-4d-togel:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
